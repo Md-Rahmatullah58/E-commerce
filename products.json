@@ -4,13 +4,13 @@
         "id": 1,
         "name":" AIRPHONE ",
         "price": 1599,
-        "image": "/image/airpohone.jpg"
+        "image": "image/airpohone.jpg"
     },
     {
         "id": 2,
         "name":" BANARSI-SAREE ",
         "price": 499,
-        "image": "/image/banarsi.jpg"
+        "image": "image/banarsi.jpg"
     },
 
     {
